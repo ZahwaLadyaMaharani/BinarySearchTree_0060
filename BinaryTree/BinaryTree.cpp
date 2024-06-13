@@ -76,6 +76,7 @@ int main() {
         cout << "1. Implement insert operation" << endl;
         cout << "2. Perform inorder traversal" << endl;
         cout << "3. Perform preorder traversal" << endl;
+        cout << "4. Perform postorder traversal" << endl;
 
 
 
